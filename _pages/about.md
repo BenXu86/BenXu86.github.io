@@ -18,4 +18,6 @@ I received my B.S. degree from Nankai University(Tianjin, China)
 in 2019. I will receive my master degree in 2022. 
 
 My research interests lie in physical simulation, more specifically, fluid modeling and scientific computing. 
-I believe that reproduce nature in the computer will be an important tool for mankind to explore unknown areas in the future.
+I am addicted to recreating the beauty of nature, developing more efficient numerical method to help people better understand the real physical world. Simulation is the key.
+
+Here is my [CV](https://github.com/BenXu86/DataSet/raw/main/xuben_cv.pdf).
